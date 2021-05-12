@@ -1,2 +1,2 @@
 # cslauncher_firstapp
-Creating an app using flask framework
+Creating a to-do app using flask framework
